@@ -25,3 +25,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 - Create basic ACL
 - Create a system for lab scores, schedules, and other stuff
+- added all sorts of stuff
+- everyonce in a while
+- hahahah
